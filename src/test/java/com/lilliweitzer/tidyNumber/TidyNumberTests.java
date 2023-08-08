@@ -5,7 +5,7 @@ import org.junit.jupiter.params.provider.CsvSource;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class Tidy_Number_Tests {
+public class TidyNumberTests {
 
     TidyNumber tidyNumber = new TidyNumber();
 
